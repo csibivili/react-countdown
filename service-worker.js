@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/csibivili/react-countdown/precache-manifest.e3780583f566a7ef8e155123c6f59c5b.js"
+  "/react-countdown/precache-manifest.6270eeac3df41b9f616180f25a0b21fe.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/csibivili/react-countdown/index.html", {
+workbox.routing.registerNavigationRoute("/react-countdown/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });

@@ -1,14 +1,14 @@
 {
-  "main.css": "/csibivili/react-countdown/static/css/main.77907ae7.chunk.css",
-  "main.js": "/csibivili/react-countdown/static/js/main.969bd82f.chunk.js",
-  "main.js.map": "/csibivili/react-countdown/static/js/main.969bd82f.chunk.js.map",
-  "runtime~main.js": "/csibivili/react-countdown/static/js/runtime~main.2fa20485.js",
-  "runtime~main.js.map": "/csibivili/react-countdown/static/js/runtime~main.2fa20485.js.map",
-  "static/js/2.98dcc9dd.chunk.js": "/csibivili/react-countdown/static/js/2.98dcc9dd.chunk.js",
-  "static/js/2.98dcc9dd.chunk.js.map": "/csibivili/react-countdown/static/js/2.98dcc9dd.chunk.js.map",
-  "index.html": "/csibivili/react-countdown/index.html",
-  "precache-manifest.e3780583f566a7ef8e155123c6f59c5b.js": "/csibivili/react-countdown/precache-manifest.e3780583f566a7ef8e155123c6f59c5b.js",
-  "service-worker.js": "/csibivili/react-countdown/service-worker.js",
-  "static/css/main.77907ae7.chunk.css.map": "/csibivili/react-countdown/static/css/main.77907ae7.chunk.css.map",
-  "static/media/logo.svg": "/csibivili/react-countdown/static/media/logo.ee7cd8ed.svg"
+  "main.css": "/react-countdown/static/css/main.77907ae7.chunk.css",
+  "main.js": "/react-countdown/static/js/main.2ff18828.chunk.js",
+  "main.js.map": "/react-countdown/static/js/main.2ff18828.chunk.js.map",
+  "runtime~main.js": "/react-countdown/static/js/runtime~main.19a56f60.js",
+  "runtime~main.js.map": "/react-countdown/static/js/runtime~main.19a56f60.js.map",
+  "static/js/2.98dcc9dd.chunk.js": "/react-countdown/static/js/2.98dcc9dd.chunk.js",
+  "static/js/2.98dcc9dd.chunk.js.map": "/react-countdown/static/js/2.98dcc9dd.chunk.js.map",
+  "index.html": "/react-countdown/index.html",
+  "precache-manifest.6270eeac3df41b9f616180f25a0b21fe.js": "/react-countdown/precache-manifest.6270eeac3df41b9f616180f25a0b21fe.js",
+  "service-worker.js": "/react-countdown/service-worker.js",
+  "static/css/main.77907ae7.chunk.css.map": "/react-countdown/static/css/main.77907ae7.chunk.css.map",
+  "static/media/logo.svg": "/react-countdown/static/media/logo.ee7cd8ed.svg"
 }
